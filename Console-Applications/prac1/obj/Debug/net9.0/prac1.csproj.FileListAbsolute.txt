@@ -1,0 +1,14 @@
+/home/nigel/DOTNET/Console-Applications/prac1/bin/Debug/net9.0/prac1
+/home/nigel/DOTNET/Console-Applications/prac1/bin/Debug/net9.0/prac1.deps.json
+/home/nigel/DOTNET/Console-Applications/prac1/bin/Debug/net9.0/prac1.runtimeconfig.json
+/home/nigel/DOTNET/Console-Applications/prac1/bin/Debug/net9.0/prac1.dll
+/home/nigel/DOTNET/Console-Applications/prac1/bin/Debug/net9.0/prac1.pdb
+/home/nigel/DOTNET/Console-Applications/prac1/obj/Debug/net9.0/prac1.GeneratedMSBuildEditorConfig.editorconfig
+/home/nigel/DOTNET/Console-Applications/prac1/obj/Debug/net9.0/prac1.AssemblyInfoInputs.cache
+/home/nigel/DOTNET/Console-Applications/prac1/obj/Debug/net9.0/prac1.AssemblyInfo.cs
+/home/nigel/DOTNET/Console-Applications/prac1/obj/Debug/net9.0/prac1.csproj.CoreCompileInputs.cache
+/home/nigel/DOTNET/Console-Applications/prac1/obj/Debug/net9.0/prac1.dll
+/home/nigel/DOTNET/Console-Applications/prac1/obj/Debug/net9.0/refint/prac1.dll
+/home/nigel/DOTNET/Console-Applications/prac1/obj/Debug/net9.0/prac1.pdb
+/home/nigel/DOTNET/Console-Applications/prac1/obj/Debug/net9.0/prac1.genruntimeconfig.cache
+/home/nigel/DOTNET/Console-Applications/prac1/obj/Debug/net9.0/ref/prac1.dll
