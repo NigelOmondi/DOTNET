@@ -12,3 +12,4 @@
 /home/nigel/DOTNET/Console-Applications/prac1/obj/Debug/net9.0/prac1.pdb
 /home/nigel/DOTNET/Console-Applications/prac1/obj/Debug/net9.0/prac1.genruntimeconfig.cache
 /home/nigel/DOTNET/Console-Applications/prac1/obj/Debug/net9.0/ref/prac1.dll
+/home/nigel/DOTNET/Console-Applications/prac1/obj/Debug/net9.0/prac1.sourcelink.json
